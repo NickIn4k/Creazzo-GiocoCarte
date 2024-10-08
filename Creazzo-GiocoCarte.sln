@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creazzo-GiocoCarte", "Creazzo-GiocoCarte\Creazzo-GiocoCarte.csproj", "{7E142979-CD25-4EB8-B0F7-66D4284D538B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E142979-CD25-4EB8-B0F7-66D4284D538B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E142979-CD25-4EB8-B0F7-66D4284D538B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E142979-CD25-4EB8-B0F7-66D4284D538B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E142979-CD25-4EB8-B0F7-66D4284D538B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A27D186-CCBA-4696-A4A3-DCF323690A71}
+	EndGlobalSection
+EndGlobal
